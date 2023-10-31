@@ -6,3 +6,7 @@
 ```javascript
 var fileName = "test"
 ```
+
+- [x] Prueba 1
+- [ ] Prueba 2
+- [ ] Prueba 3
